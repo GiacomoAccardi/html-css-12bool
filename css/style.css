@@ -1,0 +1,29 @@
+/**********************************************
+GENERAL RULES
+**********************************************/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.content{
+    background-color: rgb(0, 140, 255);
+    border: 1px solid white;
+    color: white;
+    justify-content: center;
+    padding:10px;
+}
+
+.inner-content{
+    background-color: rgb(0, 255, 21);
+    border: 1px solid rgb(0, 140, 255);
+    color: white;
+    text-align: center;
+    padding:10px
+}
+
+.m-t-20{
+    margin-top: 20px;
+}
