@@ -16,6 +16,7 @@ GENERAL RULES
     padding:10px;
 }
 
+
 .inner-content{
     background-color: rgb(0, 255, 21);
     border: 1px solid rgb(0, 140, 255);
@@ -26,4 +27,12 @@ GENERAL RULES
 
 .m-t-20{
     margin-top: 20px;
+}
+
+.h-20{
+    height: 20px;
+}
+
+.txt-none{
+    color:rgb(0, 140, 255);
 }
